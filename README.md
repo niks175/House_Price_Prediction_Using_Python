@@ -88,8 +88,8 @@ Evaluated on a held-out 20% test set (3,586 houses). Prices are in US dollars.
 
 | | |
 |---|---|
-| ![Actual vs predicted](output/actual_vs_predicted.png) | ![Residual analysis](output/residual_analysis.png) |
-| ![Feature coefficients](output/feature_coefficients.png) | ![Model comparison](output/model_comparison.png) |
+| [Actual vs predicted](output/actual_vs_predicted.png) | [Residual analysis](output/residual_analysis.png) |
+| [Feature coefficients](output/feature_coefficients.png) | [Model comparison](output/model_comparison.png) |
 
 ## Key Insights
 
