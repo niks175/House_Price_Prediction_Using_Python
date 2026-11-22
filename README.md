@@ -88,9 +88,8 @@ Evaluated on a held-out 20% test set (3,586 houses). Prices are in US dollars.
 
 | | |
 |---|---|
-| [Actual vs predicted](output/actual_vs_predicted.png) | [Residual analysis](output/residual_analysis.png) |
-| [Feature coefficients](output/feature_coefficients.png) | [Model comparison](output/model_comparison.png) |
-
+| ![Actual vs predicted](actual_vs_predicted.png) | ![Residual analysis](residual_analysis.png) |
+| ![Feature coefficients](feature_coefficients.png) | ![Model comparison](model_comparison.png) |
 ## Key Insights
 
 - **Linear Regression beats the baseline clearly.** It explains about 63% of the variation in house values and cuts the average error from about $90,000 to about $51,000 (a 43% reduction).
